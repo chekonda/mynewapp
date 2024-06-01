@@ -13,7 +13,7 @@ export default function Textform(props) {
         console.log("button up was clicked"+ text);
         let newText=text.toUpperCase();
         setText(newText);
-    }
+    }    
    
 
    
